@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(80, 80, 223);
+}
+
+#main-container{
+    background-color: aliceblue;
+    margin-top: 5rem;
+    border-radius: 3%;
+}
+
+section{
+    padding:4%
+}
